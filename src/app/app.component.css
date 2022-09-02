@@ -1,0 +1,47 @@
+html{
+    font-size: 16px;
+    font-family: 'Open Sans',sans-serif;
+}
+html{
+    background-color: #00539E;
+}
+body{
+    width: 600px;
+    margin:0 auto;
+    background-color:#ff9500;
+    padding: 20px 20px 20px;
+    border: 5px solid black;
+
+}
+.text{
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding:20px 0;
+    color: #00539f;
+    text-shadow:  3px,3px,1px black;
+
+}
+img{
+    display: block;
+    margin:0 auto;
+}
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+
+}
+ .loginbtn{
+    width: 100px ;
+    height: 25px;
+    font: 80px ;
+    font-family: 'Open sans' ,sans-serif;
+    background-color: blue;
+    color: white;
+    border: 1.3px solid black;
+    text-align: center;
+    position: absolute;
+    top: 780px;
+    right: 650px;;
+} 
